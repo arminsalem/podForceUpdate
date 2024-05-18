@@ -1,5 +1,4 @@
 # podForceUpdate
-CocoaPods Cleanup and Setup Process
 To clean up and set up CocoaPods:
 
 ```sh
